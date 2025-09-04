@@ -1,0 +1,17 @@
+/* Main Stylesheet */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header, footer {
+    background: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+}
+.hero {
+    background: linear-gradient(45deg, #6a5acd, #836fff);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+}
